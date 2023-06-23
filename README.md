@@ -116,7 +116,15 @@ Buka browser kamu, lalu masuk ke:
 http://localhost:3000/
 
 ## Demo Foto Project
-Untuk melihat bagaimana projek ini, kalian bisa cek IG saya @jahirishere.js
+![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/Screenshot%20(623).png)
+
+![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(624).png)
+
+![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(625).png)
+
+
+
+
 
 ## Catatan
 Ini adalah Project Open Source, Jika Kalian Ingin Menggunakannya Untuk Kepentingan Pribadi / Komersil, Boleh Saja, Asal Kalian Mencantumkan Kredit, jika ingin meminta password file zip nya, hubungi instagram saya @jahirishere.js

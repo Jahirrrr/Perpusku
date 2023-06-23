@@ -66,7 +66,7 @@ MONGO_URI="TARUH_DISINI_BANG"
 ```
 Setelah itu kalian taruh URL nya dibagian situ
 
-### 7) Setting Session Secret
+### 6) Setting Session Secret
 
 Untuk Menyetting Session Secret, kalian buka file .env di direktori server, lalu kalian cari syntax berikut :
 
@@ -76,7 +76,7 @@ SESSION_SECRET="MASUKIN_KATA_RAHASIANYA_DONG_BANG"
 Lalu kalian beri privatekey semau kalian
 
 
-### 9) Membuat Akun Admin Serta Menyettingnya
+### 7) Membuat Akun Admin Serta Menyettingnya
 
 Untuk Membuat akun admin, kalian buka file index.js di folder server, lalu
 panggil createadmin function:
@@ -98,7 +98,7 @@ var createadmin = async (res) => {
   });
 ```
 
-### 10) Jalani Server
+### 8) Jalani Server
 
 Buka Console NodeJS kalian, lalu ketik:
 ```

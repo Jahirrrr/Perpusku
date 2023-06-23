@@ -140,9 +140,6 @@ http://localhost:3000/
 ![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(630).png)
 
 
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(631).png)
-
-
 ![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(632).png)
 
 

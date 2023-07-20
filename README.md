@@ -14,7 +14,6 @@ Fitur Lengkap Aplikasi :
 - Pustakawan bisa menambahkan/menghapus data pengguna secara manual
 
 ## Demo Foto Project
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/Screenshot%20(623).png)
 
 ![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(623).png)
 

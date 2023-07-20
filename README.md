@@ -116,7 +116,7 @@ Buka browser kamu, lalu masuk ke:
 http://localhost:3000/
 
 ## Catatan
-Ini adalah Project Open Source, Jika Kalian Ingin Menggunakannya Untuk Kepentingan Pribadi / Komersil, Boleh Saja, Asal Kalian Mencantumkan Kredit, jika ingin meminta password file zip nya, hubungi instagram saya @jahirishere.js
+Ini adalah Project Open Source, Jika Kalian Ingin Menggunakannya Untuk Kepentingan Pribadi / Komersil, Boleh Saja, Asal Kalian Mencantumkan Kredit!
 
 ## CREDITS
 - Zahir Hadi Athallah

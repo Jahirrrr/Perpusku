@@ -115,47 +115,11 @@ npm run dev
 Buka browser kamu, lalu masuk ke:
 http://localhost:3000/
 
-## Demo Foto Project
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(623).png)
-
-
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(624).png)
-
-
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(625).png)
-
-
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(626).png)
-
-
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(627).png)
-
-
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(628).png)
-
-
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(629).png)
-
-
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(630).png)
-
-
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(632).png)
-
-
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(633).png)
-
-
-![Image](https://raw.githubusercontent.com/Jahirrrr/Perpusku/main/Screenshot%20(634).png)
-
-
 ## Catatan
-Ini adalah Project Open Source, Jika Kalian Ingin Menggunakannya Untuk Kepentingan Pribadi / Komersil, Boleh Saja, Asal Kalian Mencantumkan Kredit!
+Ini adalah Project Open Source, Jika Kalian Ingin Menggunakannya Untuk Kepentingan Pribadi / Komersil, Boleh Saja, Asal Kalian Mencantumkan Kredit, jika ingin meminta password file zip nya, hubungi instagram saya @jahirishere.js
 
 ## CREDITS
 - Zahir Hadi Athallah
 
 ## Donate For Support This Project :)
 https://saweria.co/zsoft
-
-

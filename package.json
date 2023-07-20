@@ -1,0 +1,23 @@
+{
+  "name": "perpusku-app",
+  "version": "1.0.0",
+  "description": "Aplikasi Perpustakaan untuk Sekolah",
+  "keywords": [
+    "polyvorlabs",
+    "mern",
+    "library-app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "(cd server && npm install) & (cd client && npm install)",
+    "server": "cd server && npm start",
+    "client": "cd client && npm start",
+    "start": "npm run server && npm run client",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.0",
+    "imgbb-uploader": "^1.5.1"
+  }
+}
